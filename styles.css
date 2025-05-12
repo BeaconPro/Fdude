@@ -64,4 +64,8 @@ iframe {
     border: none;
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 75vw;
+    height: 65vh;
+    left: 0;
+    top: 0;
 }
